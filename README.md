@@ -1,1 +1,1 @@
-# pertemuan5-tugas-svm-naivebayes.
+# pertemuan5-tugas-svm-naivebayes
